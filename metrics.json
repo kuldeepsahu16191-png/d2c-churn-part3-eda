@@ -1,0 +1,14 @@
+{
+    "baseline_logistic_regression": {
+        "roc_auc": 0.8726797385620915,
+        "precision_churn": 0.7970297029702971,
+        "recall_churn": 0.7155555555555555,
+        "f1_churn": 0.7540983606557377
+    },
+    "advanced_xgboost": {
+        "roc_auc": 0.8713202614379085,
+        "precision_churn": 0.7837837837837838,
+        "recall_churn": 0.7733333333333333,
+        "f1_churn": 0.7785234899328859
+    }
+}
